@@ -1,6 +1,3 @@
-# ComputerVision_Seminar
-
-
 # UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss
 
 The increasing predominance of end-to-end deep learning methods in the field of Computer Vision has necessitated
